@@ -1,0 +1,17 @@
+https://martinfowler.com/articles/serverless.html
+https://azure.microsoft.com/en-in/blog/introducing-azure-functions/ 
+https://docs.microsoft.com/en-us/azure/azure-functions/functions-overview 
+https://docs.microsoft.com/en-us/azure/azure-functions/functions-continuous-
+deployment   
+https://chsakell.com/2016/01/01/cross-platform-single-page-applications-with
+-asp-net-5-angular-2-typescript/ 
+  
+Your message is ready to be sent with the following file or link
+attachments:
+
+Implementing continuous integration and deployment in azure function app
+using VSTS.docx
+
+https://in.accenture.com/accenturetechnologyacademy/certify/new-technology-c
+redentials/ 
+https://blogs.msdn.microsoft.com/ssdt/2016/04/06/sqldb-cicd-intro/ 
