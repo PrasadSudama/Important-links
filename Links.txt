@@ -1,1 +1,3 @@
 https://www.red-gate.com/simple-talk/sysadmin/powershell/powershell-desired-state-configuration-the-basics/
+https://medium.com/@flu.lund/setting-up-a-ci-pipeline-for-deploying-your-angular-application-to-azure-using-visual-studio-team-f686c8f190cf
+https://medium.com/@somakdas/ci-cd-devops-pipeline-for-microservices-using-vsts-part-1-5e6cfb96802d
