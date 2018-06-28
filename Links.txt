@@ -5,3 +5,4 @@ https://medium.com/devopslinks/migrating-a-monolithic-legacy-app-and-db-to-docke
 https://joonasw.net/view/asp-net-core-1-configuration-deep-dive
 https://blog.mexia.com.au/preparing-azure-logic-apps-for-cicd
 https://github.com/Huachao/azure-content/tree/master/articles
+https://blog.kloud.com.au/tag/azure-functions/
